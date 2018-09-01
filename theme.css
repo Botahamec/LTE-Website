@@ -1,0 +1,81 @@
+/*Fonts*/
+@import url('https://fonts.googleapis.com/css?family=Dancing+Script|Montserrat:400,700,900|Roboto+Condensed:400,700|Roboto:400,400i,700|Ubuntu+Mono:400&subset=latin-ext');
+a {text-decoration: none; color: white;}
+.link {color: #7a91d2; text-decoration: underline;}
+.section h2 {color: rgb(114, 137, 218); text-shadow: 2pt 2pt 2pt #121415}
+.newssection h3 {color: rgb(114, 137, 218); margin-bottom: 0;}
+.votesection h3 {margin-bottom: 0;}
+h6 {margin-left: 2pt; margin-top: 0;}
+.article h2 {text-shadow: 2pt 2pt 2pt #16181a; font-family: 'Montserrat', sans-serif;}
+.article h3 {text-shadow: 1pt 1pt 1pt #16181a;}
+code {font-family: 'Ubuntu Mono', monospace;}
+
+/*Hover Menu*/
+.docs-drop {display: none; position: absolute; margin-left: 106%; background-color: rgba(44, 47, 51, 0.5); border: 1px 1px #16181a; box-shadow: 1pt 1pt 1pt #141515; font-family: 'Roboto', sans-serif;}
+.docs:hover .docs-drop {display: block;}
+.docs-drop a {display: block;}
+.home {position: relative; display: inline; float: none;}
+.elections {position: relative; display: inline; float: none;}
+.docs {position: relative; display: inline; float: none;}
+.subbtn1-drop {display: none; position: absolute; margin-left: 0; background-color: rgba(44, 47, 51, 0.85); border: 1px 1px #16181a; box-shadow: 1pt 1pt 1pt #141515; font-family: 'Roboto', sans-serif;}
+.subbtn1:hover .subbtn1-drop {display: block; width: 144px;}
+.subbtn1-drop a {display: block}
+.subbtn2-drop {display: none; position: absolute; margin-left: 102%; background-color: rgba(44, 47, 51, 0.85); border: 1px 1px #16181a; box-shadow: 1pt 1pt 1pt #141515; font-family: 'Roboto', sans-serif;}
+.subbtn2:hover .subbtn2-drop {display: block; width: 144px;}
+.subbtn2-drop a {display: block}
+.subbtn3-drop {display: none; position: absolute; margin-left: 204%; background-color: rgba(44, 47, 51, 0.85); border: 1px 1px #16181a; box-shadow: 1pt 1pt 1pt #141515; font-family: 'Roboto', sans-serif;}
+.subbtn3:hover .subbtn3-drop {display: block; width: 144px;}
+.subbtn3-drop a {display: block;}
+.subbtn4-drop {display: none; position: absolute; margin-left: 306%; background-color: rgba(44, 47, 51, 0.85); border: 1px 1px #16181a; box-shadow: 1pt 1pt 1pt #141515; font-family: 'Roboto', sans-serif;}
+.subbtn4:hover .subbtn4-drop {display: block; width: 144px;}
+.subbtn4-drop a {display: block}
+.subbtn4 {position: relative; display: inline; float: none;}
+.subbtn5-drop {display: none; position: absolute; margin-left: 408%; background-color: rgba(44, 47, 51, 0.85); border: 1px 1px #16181a; box-shadow: 1pt 1pt 1pt #141515; font-family: 'Roboto', sans-serif;}
+.subbtn5:hover .subbtn5-drop {display: block; width: 144px;}
+.subbtn5-drop a {display: block}
+.subbtn5 {position: relative; display: inline; float: none;}
+.subbtn6-drop {display: none; position: absolute; margin-left: 510%; background-color: rgba(44, 47, 51, 0.85); border: 1px 1px #16181a; box-shadow: 1pt 1pt 1pt #141515; font-family: 'Roboto', sans-serif;}
+.subbtn6:hover .subbtn6-drop {display: block; width: 144px;}
+.subbtn6-drop a {display: block}
+.subbtn6 {position: relative; display: inline; float: none;}
+.subbtn4 {position: relative; display: inline; float: none;}
+.subbtn1 {position: relative; display: inline; float: none;}
+.subbtn2 {position: relative; display: inline; float: none;}
+.subbtn3 {position: relative; display: inline; float: none;}
+
+/*Sections*/
+body {background-color: #23272a; color: white;}
+.header {color: white; background-color: rgba(114, 137, 218, 0.75); padding-left: 3%; padding-top: 12pt; padding-bottom: 12pt; box-shadow: 4pt 4pt 4pt #121425; border: 1px 1px #394575; margin: 1%; text-shadow: 3pt 3pt 3pt #394575; font-family: 'Montserrat', sans-serif; font-size: 32px; font-weight: 700;}
+.nav {background-color: rgba(153, 170, 181, 0.75); padding: 0; box-shadow: 3pt 3pt 3pt #121425; border: 1px 1px #4d555b; margin: 1%;}
+.subnav{padding: 0 12pt; margin-top: 1%;}
+.navbtn {background-color: rgba(114, 137, 218, 0.5); color: white; padding-top: 8pt; padding-bottom: 8pt; border: none; width: 60pt; margin-left: .03125%; margin-right: .03125%; text-shadow: 1pt 1pt 1pt #394575; font-family: 'Montserrat', sans-serif;}
+.subnav .navbtn {background-color: rgba(114, 137, 218, 0.5); padding-top: 16pt; padding-bottom: 16pt; border: none; margin-left: .03125%; margin-right: .03125%;}
+.section {background-color: rgba(44, 47, 51, 0.5); padding-left: 12pt; padding-top:1pt; padding-right:12pt; padding-bottom:1pt; margin: 1%; font-family: 'Roboto', sans-serif;}
+.newssection {box-shadow: 1pt 1pt 1pt #141515;}
+.article {background-color: rgba(40, 42, 42, 0.75); padding-left: 16pt; padding-top: 16pt; padding-right: 16pt; padding-bottom: 16pt; border: 1px 1px #141515; box-shadow: 3pt 3pt 3pt #121425; margin: 1%; margin-top: 0;}
+
+/*Tables*/
+table {width: 230pt; box-shadow: 1pt 1pt 1pt #16181a; padding: 0; margin-bottom: 12pt;}
+th {text-align: center; background-color: rgba(114, 137, 218, 0.75); text-shadow: 1pt 1pt 1pt #394575; margin: 0;}
+td {text-align: right; background-color: rgba(153, 170, 181, 0.75); margin: 0;}
+
+/*Hover*/
+.navbtn:hover {box-shadow: 3px 0 3px rgb(77, 85, 91), 0 3px 3px #090708; background-color: rgba(129, 152, 217, 0.75); margin-left: .02125%; margin-right: .02125%; transition: 0.2s;}
+.subnav .navbtn:hover {box-shadow: 3px 3px 3px #16181a; background-color: rgba(129, 152, 217, 0.75); margin-left: .02125%; margin-right: .02125%; transition: 0.2s;}
+.docs-drop a:hover {text-shadow: 1px 1px 1px #16181a; border: 1px 1px white; background-color: rgba(53, 55, 59, 0.75);}
+.parties-drop a:hover {text-shadow: 1px 1px 1px #16181a; border: 1px 1px white; background-color: rgba(53, 55, 59, 0.75);}
+.subbtn1-drop a:hover {text-shadow: 1px 1px 1px #16181a; border: 1px 1px white; background-color: rgba(53, 55, 59, 0.75);}
+.subbtn2-drop a:hover {text-shadow: 1px 1px 1px #16181a; border: 1px 1px white; background-color: rgba(53, 55, 59, 0.75);}
+.subbtn3-drop a:hover {text-shadow: 1px 1px 1px #16181a; border: 1px 1px white; background-color: rgba(53, 55, 59, 0.75);}
+.subbtn4-drop a:hover {text-shadow: 1px 1px 1px #16181a; border: 1px 1px white; background-color: rgba(53, 55, 59, 0.75);}
+.subbtn5-drop a:hover {text-shadow: 1px 1px 1px #16181a; border: 1px 1px white; background-color: rgba(53, 55, 59, 0.75);}
+.subbtn6-drop a:hover {text-shadow: 1px 1px 1px #16181a; border: 1px 1px white; background-color: rgba(53, 55, 59, 0.75);}
+.docs-drop:hover .about .navbtn {box-shadow: 3px 0 3px #7a91d2, 0 3px 3px #090708; background-color: rgba(129, 152, 217, 0.75); margin-left: .02125%; margin-right: .02125%;}
+.link:hover {font-weight: 700; text-shadow: 1pt 1pt #16181a;}
+.header:hover {background-color: rgba(115, 138, 219, 0.8); transition: 0.2s}
+.nav:hover {background-color: rgba(154, 171, 182, 0.8); transition: 0.2s}
+.article:hover {background-color: rgba(41, 43, 43, 0.8); transition: 0.2s}
+.section:hover {background-color: rgba(45, 48, 52, 0.6); transition: 0.2s}
+.newssection:hover {background-color: rgba(52, 55, 59, 0.75); box-shadow: 2pt 2pt 2pt #141515; margin-left: 0.5%; margin-right: 0.5%; transition: all 0.2s; padding-left: calc(12pt + .5%); padding-right: calc(12pt + .5%);}
+th:hover {background-color: rgba(115, 138, 219, 0.8);}
+td:hover {background-color: rgba(154, 171, 184, 0.8);}
