@@ -17,6 +17,9 @@ code {font-family: 'Ubuntu Mono', monospace;}
 .home {position: relative; display: inline; float: none;}
 .elections {position: relative; display: inline; float: none;}
 .docs {position: relative; display: inline; float: none;}
+.paul-nav {position: relative; display: inline; float: none;}
+.members {position: relative; display: inline; float: none;}
+.parties {position: relative; display: inline; float: none;}
 .subbtn1-drop {display: none; position: absolute; margin-left: 0; background-color: rgba(44, 47, 51, 0.85); border: 1px 1px #16181a; box-shadow: 1pt 1pt 1pt #141515; font-family: 'Roboto', sans-serif;}
 .subbtn1:hover .subbtn1-drop {display: block; width: 144px;}
 .subbtn1-drop a {display: block}

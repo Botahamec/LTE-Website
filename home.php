@@ -14,14 +14,8 @@
 	</head>
 	<body>
 		<a href="home.html"><div class="header">LTE Mock Elections</div></a>
-		<div class="nav">
-			<div class="home"><a href="home.html"><button class="navbtn">Home</button></a></div>
-			<div class="docs"><a href="docs.html"><button class="navbtn">Docs</button><div class="docs-drop">
-				<a href="constitution.html" style="color: tan">Constitution</a>
-				<a href="lawda.html" style="color: white">Laws</a>
-			</div></a></div>
-			<div class="elections"><a href="elections.html"><button class="navbtn">Elections</button></a></div>
-		</div><br>
+		<?php require(__DIR__ . '/navbar.html'); ?>
+		
 		<div class="article">
 			<div class="section"><h2>Weclome to the LTE Mock Elections!</h2></div>
 			<div class="section">
