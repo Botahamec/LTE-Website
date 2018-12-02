@@ -1,10 +1,10 @@
 <!DOCTYPE html>
 <html> <head>
 		<title>LTE Elections | Laws</title>
-		<?php require(__DIR__ . '/metadata.php'); ?>
+		<?php require(__DIR__ . '/metadata.html'); ?>
 	</head>
 	<body>
-		<?php require(__DIR__ . '/navbar.php'); ?>
+		<?php require(__DIR__ . '/navbar.html'); ?>
 		<div class="article">
 			<!--<div class="section"><h2 style="color: rgb(114, 218, 137)">Pending Bills</h2></div>
 			<a href="bill.php"><div class="section newssection">
