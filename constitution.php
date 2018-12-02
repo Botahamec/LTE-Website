@@ -1,28 +1,10 @@
 <!DOCTYPE html>
 	<head>
-		<meta charset="UTF-8">
 		<title>LTE Elections | Constitution</title>
-		<link rel="stylesheet" type="text/css" href="theme.css">
-		<meta name="viewport" content="width=device-width, initial-scale=1.0">
-		<meta name="theme-color" content="rgb(114, 137, 218)" />
-		<meta name="apple-mobile-web-app-capable" content="yes">
-		<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
-		<meta name="msapplication-navbutton-color" content="rgb(114, 137, 218)">
-		<link href="https://fonts.googleapis.com/css?family=Montserrat:400,700|Roboto+Condensed:400,700|Roboto:300,400,400i,700,700i&amp;subset=latin-ext" rel="stylesheet">
-		<!--[if lt IE 9]>
-			<script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
-		<![endif]-->
+		<?php require(__DIR__ . '/metadata.html'); ?>
 	</head>
 	<body>
-		<a href="home.html"><div class="header">LTE Mock Elections</div></a>
-		<div class="nav">
-			<div class="home"><a href="home.html"><button class="navbtn">Home</button></a></div>
-			<div class="docs"><a href="docs.html"><button class="navbtn">Docs</button><div class="docs-drop">
-				<a href="constitution.html" style="color: tan">Constitution</a>
-				<a href="lawda.html" style="color: white">Laws</a>
-			</div></a></div>
-			<div class="elections"><a href="elections.html"><button class="navbtn">Elections</button></a></div>
-		</div><br>
+		<?php require(__DIR__ . '/navbar.html'); ?>
 		<div class="article">
 			<div class="section" id="A1">
 				<h2>The LTE Constitution</h2>
