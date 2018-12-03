@@ -5,7 +5,7 @@ body {background-color: #34373d; color: #dad2c1;}
 .subnav .navbtn {background-color: rgba(214, 26, 33, 0.5); text-shadow: 1pt 1pt 1pt #6b0d11;}
 .section {background-color: rgba(52, 55, 61, 0.75); border: 1px 1px #1a1c1f;}
 .article {background-color: rgba(89, 88, 89, 0.5); border: 1px 1px #2d2c2f;}
-.about-drop {background-color: rgba(52, 55, 61, 0.5);}
+.docs-drop {background-color: rgba(52, 55, 61, 0.5);}
 .parties-drop {background-color: rgba(52, 55, 61, 0.5);}
 .members-drop {background-color: rgba(52, 55, 61, 0.5);}
 .subbtn1-drop a {background-color: rgba(52, 55, 61, 0.5);}
@@ -20,7 +20,7 @@ body {background-color: #34373d; color: #dad2c1;}
 .subnav .navbtn:hover {box-shadow: 3px 3px 3px #1a1c20; background-color: rgba(231, 90, 85, 0.75);}
 .article:hover {background-color: rgba(90, 89, 90, 0.6);}
 .section:hover {background-color: rgba(56, 59, 65, .8);}
-.about-drop a:hover {background-color: rgba(68, 71, 77, 0.75);}
+.docs-drop a:hover {background-color: rgba(68, 71, 77, 0.75);}
 .parties-drop a:hover {background-color: rgba(68, 71, 77, 0.75);}
 .members-drop a:hover {background-color: rgba(68, 71, 77, 0.75);}
 .subbtn1-drop a:hover {background-color: rgba(68, 71, 77, 0.75);}

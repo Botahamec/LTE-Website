@@ -1,0 +1,28 @@
+body {background-color: #704b30; color: #fff1d9;}
+.header {background-color: rgba(50, 182, 45, 0.75); border: 1px 1px #196b17; text-shadow: 3pt 3pt 3pt #196b17;}
+.navbtn {background-color: rgba(50, 182, 45, 0.75); text-shadow: 1pt 1pt 1pt #196b17;}
+.nav {background-color: rgba(225, 118, 40, 0.5); border: 1px 1px #713b14;}
+.subnav .navbtn {background-color: rgba(225, 118, 40, 0.5); text-shadow: 1pt 1pt 1pt #713b14;}
+.section {background-color: rgba(112, 75, 48, 0.75); border: 1px 1px #000200;}
+.article {background-color: rgba(0, 3, 0, 0.5); border: 1px 1px #382618;}
+.docs-drop {background-color: rgba(0, 3, 0, 0.5);}
+.parties-drop {background-color: rgba(0, 3, 0, 0.5);}
+.members-drop {background-color: rgba(0, 3, 0, 0.5);}
+.subbtn1-drop a {background-color: rgba(0, 3, 0, 0.5);}
+.subbtn2-drop a {background-color: rgba(0, 3, 0, 0.5);}
+.subbtn3-drop a {background-color: rgba(0, 3, 0, 0.5);}
+.section h2 {color: #32b62d; text-shadow: 2pt 2pt 2pt #382618}
+
+/*Hover*/
+.header:hover {background-color: rgba(60, 192, 55, 0.85);}
+.nav:hover {background-color: rgba(226, 119, 41, 0.85);}
+.navbtn:hover {box-shadow: 3px 0 3px #713b14, 0 3px 3px #382618; background-color: rgba(60, 192, 55, 0.75);}
+.subnav .navbtn:hover {box-shadow: 3px 3px 3px #382618; background-color: rgba(60, 192, 55, 0.75);}
+.article:hover {background-color: rgba(5, 8, 5, 0.6);}
+.section:hover {background-color: rgba(128, 85, 58, 0.75);}
+.docs-drop a:hover {background-color: rgba(5, 8, 5, 0.75);}
+.parties-drop a:hover {background-color: rgba(5, 8, 5, 0.75);}
+.members-drop a:hover {background-color: rgba(5, 8, 5, 0.75);}
+.subbtn1-drop a:hover {background-color: rgba(5, 8, 5, 0.75);}
+.subbtn2-drop a:hover {background-color: rgba(5, 8, 5, 0.75);}
+.subbtn3-drop a:hover {background-color: rgba(5, 8, 5, 0.75);}
