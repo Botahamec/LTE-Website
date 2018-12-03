@@ -26,9 +26,16 @@
 				</div></a>
 			<a href="hoop28.php"><div class='section newssection'>
 				<h3>Hoop28</h3>
+				<p>Who ya gonna hoop?</p>
 				</div></a>
-			<a href="computerguy15.php"><div class='section newssection'><h3>Computerguy15</h3></div></a>
-			<a href="chancellor_federalist.php"><div class='section newssection'><h3>Chancellor Federalist</h3></div></a>
+			<a href="computerguy15.php"><div class='section newssection'>
+				<h3>Computerguy15</h3>
+				<p>Does not computer</p>
+				</div></a>
+			<a href="chancellor_federalist.php"><div class='section newssection'>
+				<h3>Chancellor Federalist</h3>
+				<p>All hail the great Federal Chancellor</p>
+				</div></a>
 		</div>
 	</body>
 </html>
