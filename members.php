@@ -40,6 +40,10 @@
 				<h3>Alligator</h3>
 				<p>The libertarian socialist</p>
 				</div></a>
+			<a href="adam.php"><div class='section newssection'>
+				<h3>Adam</h3>
+				<p>e</p>
+				</div></a>
 		</div>
 	</body>
 </html>
