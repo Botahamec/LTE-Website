@@ -36,6 +36,10 @@
 				<h3>Chancellor Federalist</h3>
 				<p>All hail the great Federal Chancellor</p>
 				</div></a>
+			<a href="alligator.php"><div class='section newssection'>
+				<h3>Alligator</h3>
+				<p>The progressive libertarian</p>
+				</div></a>
 		</div>
 	</body>
 </html>
