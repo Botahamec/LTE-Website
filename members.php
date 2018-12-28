@@ -44,6 +44,10 @@
 				<h3>Adam</h3>
 				<p>e</p>
 				</div></a>
+			<a href="estagal.php"><div class='section newssection'>
+				<h3>Estagal</h3>
+				<p>o</p>
+				</div></a>
 		</div>
 	</body>
 </html>
