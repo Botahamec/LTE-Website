@@ -11,7 +11,7 @@
 			<div class="section">
 				<h3>Who is Alligator?</h3>
 				<p>
-					A progressive libertarian.
+					A libertarian socialist.
 				</p>
 			</div>
 		</div>

@@ -38,7 +38,7 @@
 				</div></a>
 			<a href="alligator.php"><div class='section newssection'>
 				<h3>Alligator</h3>
-				<p>The progressive libertarian</p>
+				<p>The libertarian socialist</p>
 				</div></a>
 		</div>
 	</body>
